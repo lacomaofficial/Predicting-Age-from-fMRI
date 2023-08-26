@@ -5,9 +5,6 @@
 This project explores the use of resting-state functional Magnetic Resonance Imaging (fMRI) data to predict a subject's age and uncover brain connectivity patterns associated with aging.
 
 
-
-**Key Steps in the Project**
-
 1. **Data Acquisition**: We utilized the Nilearn library to acquire resting-state fMRI data. The dataset was fetched and loaded into the project environment.
 
 2. **Data Exploration**: Extensive exploration of the dataset revealed valuable insights. We inspected the dataset's structure, checked for duplicate entries, explored data types, and identified any missing values. The target variable, 'Age,' was examined for its distribution and statistical characteristics.
