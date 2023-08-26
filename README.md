@@ -1,4 +1,4 @@
-# Predicting Age from Resting-State fMRI - Project Summary
+# Predicting Age from Resting-State fMRI 
 
 **Overview**
 
@@ -20,8 +20,6 @@ This project explores the use of resting-state functional Magnetic Resonance Ima
 
 **Conclusion**
 
-This project demonstrates the feasibility of predicting a subject's age from resting-state fMRI data and provides valuable insights into the neural underpinnings of aging. Here are some key takeaways:
-
 - **Data Quality**: The dataset used in this project exhibited good quality, with no missing values and a balanced distribution of age groups.
 
 - **Machine Learning Model**: The Support Vector Regressor (SVR) proved to be an effective choice for age prediction, achieving a mean squared error of approximately 20.1 and an R-squared score of about 0.71 on the testing dataset. These metrics indicate that the SVR model provides reasonably accurate predictions of age from fMRI data.
@@ -29,3 +27,6 @@ This project demonstrates the feasibility of predicting a subject's age from res
 - **Feature Importance**: Feature importance analysis revealed the specific brain connectivity patterns that contribute to age prediction. This information can be valuable for understanding how the brain changes with age.
 
 - **Further Research**: While this project offers promising results, there is room for further research. More advanced machine learning models, additional data sources, and larger datasets could enhance the accuracy of age prediction and provide deeper insights into the aging process.
+
+  
+![newplot](https://github.com/lacomaofficial/Predicting-Age-from-fMRI/assets/132283879/c37308a5-c518-4ee4-8549-f15e53fd94f0)
