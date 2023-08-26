@@ -27,4 +27,3 @@ This project explores the use of resting-state functional Magnetic Resonance Ima
 
 
   
-![newplot](https://github.com/lacomaofficial/Predicting-Age-from-fMRI/assets/132283879/c37308a5-c518-4ee4-8549-f15e53fd94f0)
