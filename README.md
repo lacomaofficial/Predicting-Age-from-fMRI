@@ -2,8 +2,7 @@
 
 **Overview**
 
-This project explores the use of resting-state functional Magnetic Resonance Imaging (fMRI) data to predict a subject's age and uncover brain connectivity patterns associated with aging. Through a combination of data preprocessing, feature extraction, and machine learning techniques, we aim to build a predictive model for age while gaining insights into the relationship between brain connectivity and age.
-
+This project explores the use of resting-state functional Magnetic Resonance Imaging (fMRI) data to predict a subject's age and uncover brain connectivity patterns associated with aging.
 **Key Steps in the Project**
 
 1. **Data Acquisition**: We utilized the Nilearn library to acquire resting-state fMRI data. The dataset was fetched and loaded into the project environment.
@@ -26,7 +25,6 @@ This project explores the use of resting-state functional Magnetic Resonance Ima
 
 - **Feature Importance**: Feature importance analysis revealed the specific brain connectivity patterns that contribute to age prediction. This information can be valuable for understanding how the brain changes with age.
 
-- **Further Research**: While this project offers promising results, there is room for further research. More advanced machine learning models, additional data sources, and larger datasets could enhance the accuracy of age prediction and provide deeper insights into the aging process.
 
   
 ![newplot](https://github.com/lacomaofficial/Predicting-Age-from-fMRI/assets/132283879/c37308a5-c518-4ee4-8549-f15e53fd94f0)
